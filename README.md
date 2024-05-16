@@ -1,5 +1,11 @@
 # UMMIA (UM Metro Intellegent Assistance)
 
+## Requirement
+To run this project you need:
+
+- PHP: ^8.0
+- Composer
+
 ## Installation
 
 ```bash
